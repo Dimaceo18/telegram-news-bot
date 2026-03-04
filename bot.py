@@ -1,6 +1,6 @@
 import telebot
 
-TOKEN = "ВСТАВЬ_СЮДА_НОВЫЙ_ТОКЕН"
+TOKEN = "8138430542:AAFOMz_z6mIKGOfzr4YO7UB_SrfqhF5k7Tc"
 CHANNEL = "@unclefider"
 
 bot = telebot.TeleBot(TOKEN)
