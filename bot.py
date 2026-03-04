@@ -1,7 +1,7 @@
 import telebot
 
 TOKEN = "8138430542:AAFOMz_z6mIKGOfzr4YO7UB_SrfqhF5k7Tc"
-CHANNEL = "@unclefider"
+CHANNEL = "@mnskiy"
 
 bot = telebot.TeleBot(TOKEN)
 
